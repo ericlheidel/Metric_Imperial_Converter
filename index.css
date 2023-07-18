@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800;900&display=swap');
+
+body {
+    margin: 0;
+    text-align: center;
+    background: #f4f4f4;
+}
+
+#div-top {
+    background: #6943fe;
+    color: white;
+    padding: 30px;
+}
+
+#div-bottom {
+    padding: 10px;
+    margin-top: 10px;
+}
+
+.units {
+    background: white;
+    padding: 5px;
+    margin-bottom: 15px;
+} 
